@@ -1,0 +1,92 @@
+.index{
+float:right;
+}
+.hero-image{
+  background-image: url(place1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.background{
+    background-color: blue!important;
+
+}
+
+
+/* Place text in the middle of the image */
+.hero-text {
+  color: white;
+  margin-top: 5rem;
+}
+.signin{
+    margin-top: 5rem;
+}
+.login{
+  margin-top: 5rem;
+}
+
+
+/* Place text in the middle of the image */
+.hero-text {
+  color: white;
+  margin-top: 5rem;
+}
+.signin{
+    margin-top: 5rem;
+}
+.login{
+  margin-top: 5rem;
+}
+.absolute{
+    position: absolute;
+    right: 0;
+}
+
+/* The hero image */
+
+
+/* Place text in the middle of the image */
+.hero-text {
+  color: white;
+  margin-top: 5rem;
+}
+.signin{
+    margin-top: 5rem;
+}
+.login{
+  margin-top: 5rem;
+}
+.table{
+  background-color: blue;
+}
+.brocher{
+  background-color:grey;
+  margin-top: 5rem;
+}
+.amenities{
+  margin-top: 5rem;
+}
+.location{
+  color: blue;
+  margin-top: 5rem;
+}
+.office{
+  margin-top: 5rem;
+  background-color: blue!important;
+  
+}
+.corporate{
+  background-color: blue;
+}
+.bh{
+  margin-right:0!important;
+
+}
+.hhh{
+  font-size: 10px;
+  color: white;
+}
+
+
+
+   
